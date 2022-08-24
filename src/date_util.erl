@@ -11,6 +11,7 @@
     epoch_to_gregorian_seconds/1,
     gregorian_seconds_to_epoch/1,
     date_to_epoch/1,
+    datetime_to_epoch/1,
     is_older_by/3,
     is_sooner_by/3,
     is_time_sooner_than/2,
